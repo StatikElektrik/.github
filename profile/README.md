@@ -1,4 +1,4 @@
-# Public transportation AI
+# Public Transportation AI
 
 Welcome to the PTAI organization on GitHub. We are a diverse team of professionals with a common mission – to revolutionize public transportation through predictive maintenance.
 
